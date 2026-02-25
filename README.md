@@ -1,4 +1,4 @@
-# 🎮 Juego Piedra, Papel o Tijera
+# Juego Piedra, Papel o Tijera
 
 ## Materia
 Lógica de Programación  
